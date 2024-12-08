@@ -1,0 +1,1 @@
+netsh http add urlacl url=http://192.168.102.251:8080/ listen=yes user=Все
